@@ -1,0 +1,83 @@
+{
+    "grocery":[{
+        "slNo":"1",
+        "Name":"Rice",
+        "Quantity":"25",
+        "Unit":"Kg",
+        "Department":"Grains",
+        "Notes":"Double Star"
+    },
+    {
+        "slNo":"2",
+        "Name":"Sugar",
+        "Quantity":"2",
+        "Unit":"Kg",
+        "Department":"Food Item",
+        "Notes":"Good Quality"
+    },
+    {
+        "slNo":"3",
+        "Name":"Salt",
+        "Quantity":"1",
+        "Unit":"Kg",
+        "Department":"Food Item",
+        "Notes":"Rock Salt"
+    },
+    {
+        "slNo":"4",
+        "Name":"Milk",
+        "Quantity":"1",
+        "Unit":"Litre",
+        "Department":"Food Item",
+        "Notes":"Milma"
+    },
+    {
+        "slNo":"5",
+        "Name":"Coffee",
+        "Quantity":"500",
+        "Unit":"Grams",
+        "Department":"Food Item",
+        "Notes":"Bru"
+    },
+    {
+        "slNo":"6",
+        "Name":"Banana",
+        "Quantity":"1",
+        "Unit":"Kg",
+        "Department":"Fruit",
+        "Notes":"Robusta"
+    },
+    {
+        "slNo":"7",
+        "Name":"Tomato",
+        "Quantity":"2",
+        "Unit":"kg",
+        "Department":"Vegetable",
+        "Notes":"Fresh"
+    },
+    {
+        "slNo":"8",
+        "Name":"Soap",
+        "Quantity":"5",
+        "Unit":"Number",
+        "Department":"Cleansing Agent",
+        "Notes":"Cutee"
+    },
+    {
+        "slNo":"9",
+        "Name":"Washing Powder",
+        "Quantity":"5",
+        "Unit":"Kg",
+        "Department":"Cleansing Agent",
+        "Notes":"Sunlight"
+    },
+    {
+        "slNo":"10",
+        "Name":"Tooth Paste",
+        "Quantity":"1",
+        "Unit":"Number",
+        "Department":"Cleansing Agent",
+        "Notes":"Colgate"
+    }
+    ]
+}    

@@ -1,0 +1,37 @@
+body{
+  background-image:url("background.jpg");
+  background-size: 1300px 610px;
+  background-repeat: no-repeat; 
+}
+.overlay{
+  text-align: center; 
+  font-family: 'Ibarra Real Nova', serif;
+  }
+h1{
+  color:white;
+  text-shadow: 3px 2px 2px black; 
+}
+#btn{
+  /* background: linear-gradient(#ff008c, #fd1302); */
+  background-image: linear-gradient(#dd2476,#ff512f);
+  border-radius: 16px;
+  color:white;
+  border: none;
+  padding: 10px 25px; 
+  margin: 8px;
+  margin-bottom: 25px;
+  letter-spacing: 3px; 
+  font-family: 'Ibarra Real Nova', serif;
+}
+td, th {
+  color: white;
+  text-align: center; 
+}
+tr:nth-child(even) {
+  background-color: #24bec9;
+} 
+tr:nth-child(odd) {
+  background-color: #246bc9; 
+}
+
+  
